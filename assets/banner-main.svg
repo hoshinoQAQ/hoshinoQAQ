@@ -1,1 +1,46 @@
-<svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520"><stop stop-color="#83c9ff"/><stop offset=".48" stop-color="#ffd2e9"/><stop offset="1" stop-color="#fff8fd"/></linearGradient><filter id="sh"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#27415f" flood-opacity=".22"/></filter><style>.jp{font:900 72px Georgia,serif;fill:white}.en{font:700 34px cursive;fill:#ff6faa}.t{font:700 22px Arial,sans-serif;fill:#435276}.s{font:700 16px Arial,sans-serif;fill:#59627d}.d{font:700 16px Arial,sans-serif;fill:white}</style></defs><rect width="1200" height="520" rx="28" fill="url(#bg)"/><circle cx="990" cy="86" r="82" fill="#fff6ad" opacity=".35"/><path d="M0 355C135 300 240 333 382 295C536 254 640 278 807 312C960 343 1045 330 1200 288V520H0Z" fill="#fff" opacity=".52"/><path d="M0 415C154 354 292 421 452 376C616 330 730 386 888 410C1018 430 1095 384 1200 352V520H0Z" fill="#ffeaf4" opacity=".78"/><g opacity=".72"><path d="M122 112c30-24 66-24 96 0" stroke="#fff" stroke-width="5" stroke-linecap="round"/><path d="M740 142c24-18 52-18 76 0" stroke="#fff" stroke-width="5" stroke-linecap="round"/><path d="M1038 228c22-16 48-16 70 0" stroke="#fff" stroke-width="4" stroke-linecap="round"/><circle cx="90" cy="70" r="5" fill="#fff"/><circle cx="1114" cy="74" r="5" fill="#fff"/><circle cx="1016" cy="154" r="3" fill="#fff"/></g><g filter="url(#sh)"><rect x="42" y="44" width="138" height="72" rx="16" fill="#17233f" opacity=".9" transform="rotate(-8 42 44)"/><text x="70" y="77" class="d" transform="rotate(-8 42 44)">Welcome to</text><text x="80" y="101" class="d" transform="rotate(-8 42 44)">my GitHub</text></g><g transform="translate(156 132)"><text class="jp" x="0" y="0">小鸟游星野</text><text class="en" x="8" y="48">Takanashi Hoshino</text><text class="t" x="0" y="106">今天也在写代码，偶尔想偷懒睡一会儿。</text><rect x="0" y="145" width="390" height="62" rx="20" fill="#fff" fill-opacity=".75" stroke="#ffd4e7"/><text class="s" x="34" y="184">如果奇迹有颜色，一定是和你相遇的那一天。</text></g><g transform="translate(830 240)" filter="url(#sh)"><rect width="288" height="132" rx="20" fill="#fff8fc" fill-opacity=".86" stroke="#ffd2e6"/><text x="28" y="34" font-family="Arial" font-size="18" font-weight="800" fill="#ff72b4">Now Playing ♪</text><text x="28" y="64" class="s">夜空与代码之间</text><rect x="28" y="84" width="168" height="7" rx="4" fill="#f2d9e8"/><rect x="28" y="84" width="108" height="7" rx="4" fill="#ff86bf"/><circle cx="64" cy="110" r="4" fill="#26304f"/><rect x="100" y="102" width="8" height="17" rx="2" fill="#26304f"/><rect x="116" y="102" width="8" height="17" rx="2" fill="#26304f"/><path d="M160 102l18 9-18 9Z" fill="#26304f"/></g><g transform="translate(690 56)"><ellipse cx="250" cy="52" rx="86" ry="28" stroke="#ffb2d8" stroke-width="8" opacity=".9"/><ellipse cx="250" cy="52" rx="128" ry="42" stroke="#d8f2ff" stroke-width="5" opacity=".75"/><path d="M158 130c42-82 166-92 235-24 68 66 54 176-22 234-76 58-200 58-258-16-46-60-26-140 45-194Z" fill="#ffe0f0" stroke="#ff9ccc" stroke-width="4"/><path d="M124 164c34-74 116-112 190-84 60 23 104 82 94 158-58-50-130-30-188 7-44 28-80 7-96-81Z" fill="#ffc4e0"/><path d="M142 194c-23 54-14 116 33 154 56 45 146 37 194-14 49-52 53-128 13-178-34 30-76 42-126 38-46-3-80-10-114 0Z" fill="#fff8fc"/><circle cx="230" cy="252" r="18" fill="#ffb4d6"/><circle cx="314" cy="238" r="18" fill="#9fd8ff"/><circle cx="234" cy="248" r="7" fill="#26304f"/><circle cx="318" cy="234" r="7" fill="#26304f"/><path d="M254 292c24 15 55 10 78-12" stroke="#be7298" stroke-width="5" stroke-linecap="round"/><path d="M92 374c104 56 260 58 370-24" stroke="#a7dfff" stroke-width="15" stroke-linecap="round" opacity=".72"/><path d="M124 388c70 26 150 28 238 6" stroke="#ffb4d8" stroke-width="9" stroke-linecap="round" opacity=".9"/></g></svg>
+<svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="card">
+      <rect width="1200" height="520" rx="28"/>
+    </clipPath>
+    <linearGradient id="wash" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3f5f93" stop-opacity=".18"/>
+      <stop offset=".55" stop-color="#3b2a5b" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#1d1a2f" stop-opacity=".48"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#243552" flood-opacity=".22"/>
+    </filter>
+    <style>
+      .title{font:900 70px Georgia,serif;fill:#ffffff}
+      .sub{font:700 34px "Segoe Script",cursive;fill:#ffd7e9}
+      .body{font:700 22px "Segoe UI",Arial,sans-serif;fill:#f8faff}
+      .small{font:700 16px "Segoe UI",Arial,sans-serif;fill:#59627d}
+      .mini{font:800 16px "Segoe UI",Arial,sans-serif;fill:#ff72b4}
+      .chip{font:700 18px "Segoe UI",Arial,sans-serif;fill:#435276}
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <image href="source-parts/spring_breeze_over_a_dreamy_cityscape.png" x="0" y="-110" width="1200" height="760" preserveAspectRatio="xMidYMid slice"/>
+    <rect width="1200" height="520" fill="url(#wash)"/>
+    <rect x="0" y="356" width="1200" height="164" fill="#fff8fd" fill-opacity=".28"/>
+    <rect x="138" y="145" width="452" height="186" rx="28" fill="#ffffff" fill-opacity=".22" stroke="#ffd9ea" stroke-opacity=".9"/>
+    <text class="title" x="156" y="212">小鸟游星野</text>
+    <text class="sub" x="162" y="262">Takanashi Hoshino</text>
+    <text class="body" x="156" y="316">温柔而坚定，像星光一样照亮代码的世界。</text>
+    <g transform="translate(156 368)">
+      <rect width="390" height="64" rx="22" fill="#ffffff" fill-opacity=".78" stroke="#ffd9ea"/>
+      <text class="chip" x="34" y="41">前端开发 · 开源爱好者 · 继续慢慢变强</text>
+    </g>
+    <g transform="translate(846 184)" filter="url(#shadow)">
+      <rect width="286" height="160" rx="24" fill="#fff9fd" fill-opacity=".84" stroke="#ffd4e7"/>
+      <text class="mini" x="24" y="34">正在播放 ♪</text>
+      <text class="small" x="24" y="62">星野的午后咖啡馆</text>
+      <text class="small" x="24" y="86">lofi hip-pop / chill</text>
+      <rect x="24" y="110" width="150" height="8" rx="4" fill="#f0dae7"/>
+      <rect x="24" y="110" width="92" height="8" rx="4" fill="#ff86bf"/>
+      <text class="small" x="24" y="136">01:12 / 03:45</text>
+      <image href="source-parts/pastel_spring_day_on_the_rooftop.png" x="188" y="22" width="78" height="98" preserveAspectRatio="xMidYMid slice"/>
+    </g>
+  </g>
+</svg>

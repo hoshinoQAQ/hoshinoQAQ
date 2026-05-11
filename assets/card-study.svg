@@ -1,1 +1,25 @@
-<svg width="780" height="360" viewBox="0 0 780 360" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="bg" x1="0" y1="0" x2="780" y2="360"><stop stop-color="#fff8fc"/><stop offset=".55" stop-color="#ffe5f2"/><stop offset="1" stop-color="#e4f5ff"/></linearGradient><filter id="sh"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#ff8fc4" flood-opacity=".18"/></filter><style>.t{font:900 30px Arial,sans-serif;fill:#26304f}.s{font:700 18px Arial,sans-serif;fill:#667091}.m{font:700 14px Arial,sans-serif;fill:#ff72b4}</style></defs><rect width="780" height="360" rx="28" fill="url(#bg)"/><g opacity=".55"><circle cx="678" cy="66" r="54" fill="#fff"/><path d="M0 268C105 235 198 270 312 238C444 202 545 242 780 210V360H0Z" fill="#fff"/></g><g transform="translate(38 38)" filter="url(#sh)"><rect width="380" height="248" rx="24" fill="#fff" fill-opacity=".78" stroke="#ffd4e8"/><rect x="32" y="42" width="300" height="150" rx="14" fill="#26304f" opacity=".88"/><g font-family="monospace" font-size="13" font-weight="700"><text x="56" y="76" fill="#ff9acb">const</text><text x="110" y="76" fill="#d8f2ff">project</text><text x="56" y="106" fill="#b9ffdd">status:</text><text x="132" y="106" fill="#fff">shipping</text><text x="56" y="136" fill="#ffd27d">focus:</text><text x="116" y="136" fill="#fff">clean ui</text><text x="56" y="166" fill="#d8f2ff">mood:</text><text x="116" y="166" fill="#fff">keep building</text></g><circle cx="64" cy="222" r="10" fill="#ff91c7"/><circle cx="96" cy="222" r="10" fill="#8ccfff"/><circle cx="128" cy="222" r="10" fill="#ffd27d"/></g><g transform="translate(475 56)"><ellipse cx="118" cy="34" rx="48" ry="15" fill="none" stroke="#ff9acb" stroke-width="6"/><path d="M58 90c22-58 104-65 148-20 39 40 28 106-22 136-56 34-137 18-157-34-12-31 1-62 31-82Z" fill="#ffe0f0" stroke="#ff9acb" stroke-width="3"/><path d="M52 116c26-45 78-65 126-36 27 16 42 44 39 76-31-24-66-18-100 3-30 19-54 2-65-43Z" fill="#ffc6e2"/><path d="M72 148c4 35 42 58 84 48 29-7 48-28 51-58-30 22-62 24-99 14-15-4-27-5-36-4Z" fill="#fff8fc"/><circle cx="112" cy="159" r="9" fill="#ffb4d6"/><circle cx="160" cy="153" r="9" fill="#9fd8ff"/><path d="M123 182c15 9 32 6 44-6" stroke="#be7298" stroke-width="4" stroke-linecap="round"/></g><text class="t" x="460" y="286">整理项目中</text><text class="s" x="460" y="318">把小想法慢慢做成作品</text><g fill="#ff9acb" opacity=".65"><path d="M702 270l10 6 10-6-6 10 6 10-10-6-10 6 6-10z"/><circle cx="704" cy="114" r="6"/><circle cx="74" cy="320" r="5"/></g></svg>
+<svg width="780" height="360" viewBox="0 0 780 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="card">
+      <rect width="780" height="360" rx="28"/>
+    </clipPath>
+    <linearGradient id="overlay" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff7fc" stop-opacity=".08"/>
+      <stop offset=".58" stop-color="#2f2748" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#1c1e33" stop-opacity=".52"/>
+    </linearGradient>
+    <style>
+      .tag{font:800 16px "Segoe UI",Arial,sans-serif;fill:#ff78b8}
+      .title{font:900 30px "Segoe UI",Arial,sans-serif;fill:#ffffff}
+      .body{font:700 18px "Segoe UI",Arial,sans-serif;fill:#f4f8ff}
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <image href="source-parts/pastel_sakura_study_space_with_charm.png" x="0" y="-26" width="780" height="460" preserveAspectRatio="xMidYMid slice"/>
+    <rect width="780" height="360" fill="url(#overlay)"/>
+    <rect x="32" y="222" width="716" height="108" rx="24" fill="#1d2540" fill-opacity=".48" stroke="#ffd7ea" stroke-opacity=".85"/>
+    <text class="tag" x="58" y="258">Focus</text>
+    <text class="title" x="58" y="292">继续整理前端和工具类方向的项目</text>
+    <text class="body" x="58" y="320">把零散的想法做成更完整、更稳定的作品。</text>
+  </g>
+</svg>

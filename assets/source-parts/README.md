@@ -1,5 +1,9 @@
 # Source Parts
 
-这些是之前生成的小图素材。当前 README 没有直接引用它们，避免 GitHub 手机端布局压缩导致页面变形。
+这些 PNG 是当前 GitHub Profile README 组件使用的原始素材。
 
-后续如果要做成更复杂的主页，可以再从这些图里挑选局部，重新排成一张完整大图，或者用于 GitHub Pages 独立网页。
+- `banner-main.svg` 会引用城市与屋顶相关素材
+- `avatar-round.svg` 会引用头像素材
+- `card-study.svg` / `card-music.svg` / `card-quote.svg` 会分别引用对应场景图
+
+这里只保留 README 实际会用到的图片，避免仓库里堆一批已经不用的效果图和备用图。
