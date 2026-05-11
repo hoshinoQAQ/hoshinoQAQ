@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/banner-main-v2.svg" width="100%" alt="banner" />
+  <img src="assets/banner-main-v3.png" width="100%" alt="banner" />
   <br /><br />
-  <img src="assets/avatar-round-v2.svg" width="180" alt="avatar" />
+  <img src="assets/avatar-round-v3.png" width="180" alt="avatar" />
   <h1>hoshinoQAQ</h1>
   <p>前端开发者 · 开源爱好者 · 喜欢把灵感做成作品</p>
   <p>
@@ -24,7 +24,7 @@
 
 </td>
 <td width="42%" align="center" valign="top">
-  <img src="assets/deco-blob-v2.svg" width="220" alt="deco" />
+  <img src="assets/deco-blob-v3.png" width="220" alt="deco" />
 </td>
 </tr>
 </table>
@@ -41,7 +41,7 @@
 <td width="42%" valign="top">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshinoQAQ&layout=compact&theme=transparent&hide_border=true&title_color=ff7db9&text_color=59627a" alt="top langs" />
   <br /><br />
-  <img src="assets/deco-cloud-v2.svg" width="240" alt="cloud" />
+  <img src="assets/deco-cloud-v3.png" width="240" alt="cloud" />
 </td>
 </tr>
 </table>
@@ -57,14 +57,14 @@
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-  <img src="assets/card-study-v2.svg" width="100%" alt="study" />
+  <img src="assets/card-study-v3.png" width="100%" alt="study" />
   <br />
   <b>继续整理前端和工具类方向的项目</b>
   <br />
   把零散的想法做成更完整、更稳定的作品。
 </td>
 <td width="50%" align="center" valign="top">
-  <img src="assets/card-music-v2.svg" width="100%" alt="music" />
+  <img src="assets/card-music-v3.png" width="100%" alt="music" />
   <br />
   <b>写代码的时候喜欢放点轻松的音乐</b>
   <br />
@@ -78,21 +78,21 @@
 <table>
 <tr>
 <td width="33.3%" align="center" valign="top">
-  <img src="assets/card-study-v2.svg" width="100%" alt="project 1" />
+  <img src="assets/card-study-v3.png" width="100%" alt="project 1" />
   <br />
   <b>hoshino-ui</b>
   <br />
   一套偏清爽风格的前端组件整理。
 </td>
 <td width="33.3%" align="center" valign="top">
-  <img src="assets/card-music-v2.svg" width="100%" alt="project 2" />
+  <img src="assets/card-music-v3.png" width="100%" alt="project 2" />
   <br />
   <b>starry-blog</b>
   <br />
   个人博客与内容整理页面。
 </td>
 <td width="33.3%" align="center" valign="top">
-  <img src="assets/card-quote-v2.svg" width="100%" alt="project 3" />
+  <img src="assets/card-quote-v3.png" width="100%" alt="project 3" />
   <br />
   <b>hoshino-cloud</b>
   <br />
@@ -123,13 +123,13 @@
 
 </td>
 <td width="35%" align="center" valign="middle">
-  <img src="assets/card-quote-v2.svg" width="100%" alt="quote" />
+  <img src="assets/card-quote-v3.png" width="100%" alt="quote" />
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="assets/footer-chibi-v2.svg" width="130" alt="chibi" />
+  <img src="assets/footer-chibi-v3.png" width="130" alt="chibi" />
   <br />
   <sub>Made with ♥ by hoshinoQAQ</sub>
 </div>
