@@ -1,135 +1,139 @@
-<div align="center">
-  <img src="assets/banner-main-v3.png" width="100%" alt="banner" />
-  <br /><br />
-  <img src="assets/avatar-round-v3.png" width="180" alt="avatar" />
-  <h1>hoshinoQAQ</h1>
-  <p>前端开发者 · 开源爱好者 · 喜欢把灵感做成作品</p>
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Frontend-ff8fc4?style=flat-square" alt="focus" />
-    <img src="https://img.shields.io/badge/Learning-Rust%20%26%20WebAssembly-8ecbff?style=flat-square" alt="learning" />
-    <img src="https://img.shields.io/badge/Editor-VS%20Code-f6c6df?style=flat-square" alt="editor" />
-  </p>
-</div>
+<p align="center">
+  <img src="./assets/images/banner-readme.png" alt="hoshinoQAQ banner" width="100%" />
+</p>
 
-## 关于我
+<h1 align="center">hoshinoQAQ</h1>
+
+<p align="center">
+  <b>Frontend Developer</b> · <b>Open Source Lover</b> · <b>UI / UX Enthusiast</b>
+</p>
+
+<p align="center">
+  Passionate about crafting delightful web experiences with clean code and beautiful interfaces.<br/>
+  Love clean code, fresh UI, and sharing knowledge with the community.
+</p>
+
+<p align="center">
+  <a href="https://github.com/hoshinoQAQ">
+    <img src="https://img.shields.io/badge/GitHub-hoshinoQAQ-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:2633503547@qq.com">
+    <img src="https://img.shields.io/badge/Email-Contact-8CB4FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/hoshinoQAQ?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Repositories-B8C7FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Projects" />
+  </a>
+  <a href="https://github.com/hoshinoQAQ/hoshinoQAQ">
+    <img src="https://img.shields.io/badge/Profile-README-F7B7D9?style=for-the-badge&logo=markdown&logoColor=white" alt="Profile README" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=6C7BEF&center=true&vCenter=true&width=720&height=42&lines=Build+soft+and+useful+web+experiences;Keep+learning%2C+keep+shipping;Make+interfaces+fresh%2C+clean%2C+and+kind" alt="Typing SVG" />
+</p>
+
+---
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="28%" valign="top">
 
-- 喜欢把界面做得清爽一点，也喜欢把小细节打磨完整。  
-- 主要关注前端开发、组件设计、工具类项目和开源实践。  
-- 现在在继续补强工程化、性能优化，以及一些新的语言方向。  
-- 平时会把想到的东西做成小项目，再慢慢整理成能长期维护的作品。  
+<img src="./assets/images/profile-card.png" alt="profile card" width="100%" />
+
+<br/>
+
+**Profile**
+
+- 🌏 Earth · UTC+8
+- 🧭 Frontend / UI / UX
+- ✨ Clean UI & open source
+- 🐱 GitHub: [`@hoshinoQAQ`](https://github.com/hoshinoQAQ)
 
 </td>
-<td width="42%" align="center" valign="top">
-  <img src="assets/deco-blob-v3.png" width="220" alt="deco" />
+<td width="72%" valign="top">
+
+## ✦ About Me
+
+- 专注于现代 Web 开发，喜欢清爽、柔和、可长期维护的界面。
+- 喜欢开源，也喜欢把想法整理成可以分享的作品。
+- 关注前端工程化、组件设计、交互体验和工具类项目。
+- 正在持续学习 TypeScript、Vue、React、Node.js 与更多有趣方向。
+- 希望把代码写得更有温度，也把页面做得更干净。
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoshinoQAQ&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshinoQAQ&layout=compact&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&bg_color=00000000" alt="Top Languages" width="38%" />
+</p>
+
 </td>
 </tr>
 </table>
 
-## GitHub Stats
+---
+
+## ✦ Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoshinoQAQ&bg_color=ffffff&color=59627a&line=8CB4FF&point=F7B7D9&area=true&area_color=CFE8FF&hide_border=true&custom_title=Recent%20Contribution%20Activity" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+## ✦ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,nodejs,python,tailwind,sass,git,github,docker,vscode,figma&theme=light&perline=8" alt="Skill Icons" />
+</p>
+
+---
+
+## ✦ Pinned Repository
+
+<p align="center">
+  <a href="https://github.com/hoshinoQAQ/hoshinoQAQ">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoshinoQAQ&repo=hoshinoQAQ&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="hoshinoQAQ repo" />
+  </a>
+</p>
+
+---
+
+## ✦ Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hoshinoQAQ&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophy" />
+</p>
+
+---
+
+## ✦ Gallery
 
 <table>
 <tr>
-<td width="58%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoshinoQAQ&show_icons=true&theme=transparent&hide_border=true&title_color=ff7db9&icon_color=8ccfff&text_color=59627a&rank_icon=github" alt="stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=hoshinoQAQ&theme=transparent&hide_border=true&ring=FF86BF&fire=FFB6D9&currStreakLabel=6EA8FF&sideLabels=59627A&dates=8B94A8" alt="streak" />
-</td>
-<td width="42%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshinoQAQ&layout=compact&theme=transparent&hide_border=true&title_color=ff7db9&text_color=59627a" alt="top langs" />
-  <br /><br />
-  <img src="assets/deco-cloud-v3.png" width="240" alt="cloud" />
-</td>
+<td width="16.6%"><img src="./assets/images/thumb-1.jpg" width="100%" alt="gallery 1" /></td>
+<td width="16.6%"><img src="./assets/images/thumb-2.jpg" width="100%" alt="gallery 2" /></td>
+<td width="16.6%"><img src="./assets/images/thumb-3.jpg" width="100%" alt="gallery 3" /></td>
+<td width="16.6%"><img src="./assets/images/thumb-4.jpg" width="100%" alt="gallery 4" /></td>
+<td width="16.6%"><img src="./assets/images/thumb-5.jpg" width="100%" alt="gallery 5" /></td>
+<td width="16.6%"><img src="./assets/images/thumb-6.jpg" width="100%" alt="gallery 6" /></td>
 </tr>
 </table>
 
-## 技术栈
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,react,nextjs,vue,nodejs,nestjs,tailwind,sass,docker,postgres,redis,mongodb,git,github,linux,vscode,figma,aws,vercel,prisma&perline=8" alt="skills" />
-</div>
+<p align="center">
+  <img src="./assets/images/quote-card.png" alt="quote card" width="86%" />
+</p>
 
-## 现在在做什么
+---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-  <img src="assets/card-study-v3.png" width="100%" alt="study" />
-  <br />
-  <b>继续整理前端和工具类方向的项目</b>
-  <br />
-  把零散的想法做成更完整、更稳定的作品。
-</td>
-<td width="50%" align="center" valign="top">
-  <img src="assets/card-music-v3.png" width="100%" alt="music" />
-  <br />
-  <b>写代码的时候喜欢放点轻松的音乐</b>
-  <br />
-  慢一点没关系，把每个部分做好就行。
-</td>
-</tr>
-</table>
+## ✦ Interaction Notes
 
-## 精选内容
+顶部横幅 `banner-readme.png` 是一张视觉图片，图片里的元素本身不能分别点击。真正可点击的是横幅下面的 GitHub、Email、Projects、Profile README 四个徽章按钮，它们都是 Markdown/HTML 链接，所以在 GitHub Profile README 里可以正常点击。
 
-<table>
-<tr>
-<td width="33.3%" align="center" valign="top">
-  <img src="assets/card-study-v3.png" width="100%" alt="project 1" />
-  <br />
-  <b>hoshino-ui</b>
-  <br />
-  一套偏清爽风格的前端组件整理。
-</td>
-<td width="33.3%" align="center" valign="top">
-  <img src="assets/card-music-v3.png" width="100%" alt="project 2" />
-  <br />
-  <b>starry-blog</b>
-  <br />
-  个人博客与内容整理页面。
-</td>
-<td width="33.3%" align="center" valign="top">
-  <img src="assets/card-quote-v3.png" width="100%" alt="project 3" />
-  <br />
-  <b>hoshino-cloud</b>
-  <br />
-  一些轻量、好用的小工具与实验项目。
-</td>
-</tr>
-</table>
+GitHub Profile README 不支持自由运行 JavaScript，也不能像普通网页那样给图片内部的多个区域绑定点击事件。如果以后你想让“横幅里面的按钮也能点击”，更适合做 GitHub Pages 或独立网页；README 版本应该把按钮单独放成真实链接。
 
-## 活动
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hoshinoQAQ/hoshinoQAQ/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
-## 今日留言
-
-<table>
-<tr>
-<td width="65%" valign="middle">
-
-慢慢写，认真做。  
-把喜欢的东西，  
-变成可以分享的作品。
-
-<br />
-<br />
-— hoshinoQAQ
-
-</td>
-<td width="35%" align="center" valign="middle">
-  <img src="assets/card-quote-v3.png" width="100%" alt="quote" />
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="assets/footer-chibi-v3.png" width="130" alt="chibi" />
-  <br />
-  <sub>Made with ♥ by hoshinoQAQ</sub>
-</div>
+<p align="center">
+  <sub>© 2026 hoshinoQAQ · Built with soft light, clean code, and lots of coffee.</sub>
+</p>
