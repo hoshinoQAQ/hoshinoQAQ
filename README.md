@@ -1,152 +1,135 @@
 <div align="center">
-
-<img src="assets/hoshino-hero.svg" width="100%" alt="Pastel Hoshino inspired GitHub profile banner" />
-
-<br />
-
-<img src="https://github.com/hoshinoQAQ.png" width="128" height="128" style="border-radius:50%" alt="hoshinoQAQ avatar" />
-
-# 你好，我是 hoshinoQAQ ✨
-
-**清新粉蓝系 · 开发者主页 · 小鸟游星野灵感主题**
-
-<img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1200&color=FF77B7&center=true&vCenter=true&width=720&lines=%E5%A6%82%E6%9E%9C%E5%A5%87%E8%BF%B9%E6%9C%89%E9%A2%9C%E8%89%B2%EF%BC%8C%E4%B8%80%E5%AE%9A%E6%98%AF%E7%B2%89%E8%93%9D%E8%89%B2%E7%9A%84%E9%82%A3%E4%B8%80%E5%A4%A9;Code+%C2%B7+Design+%C2%B7+Anime+Vibes;Building+cute+things+with+clean+code" alt="typing intro" />
-
+  <img src="assets/banner-main.svg" width="100%" alt="banner" />
+  <br /><br />
+  <img src="assets/avatar-round.svg" width="180" alt="avatar" />
+  <h1>hoshinoQAQ</h1>
+  <p>前端开发者 · 开源爱好者 · 喜欢把灵感做成作品</p>
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Frontend-ff8fc4?style=flat-square" alt="focus" />
+    <img src="https://img.shields.io/badge/Learning-Rust%20%26%20WebAssembly-8ecbff?style=flat-square" alt="learning" />
+    <img src="https://img.shields.io/badge/Editor-VS%20Code-f6c6df?style=flat-square" alt="editor" />
+  </p>
 </div>
 
----
-
-## 🌸 About Me
-
-我想把这个主页做成一个有层次感的个人展示页：上半部分负责建立第一印象，中间部分展示能力和作品，下半部分展示活动、文章、灵感和联系入口。整体视觉参考清新二次元风格，使用浅粉、天空蓝、奶白、透明卡片和星星光效，同时围绕你的头像做柔和的边框和光环感。
-
-```ts
-const hoshinoQAQ = {
-  style: ["pastel", "fresh anime", "soft blue", "sakura pink"],
-  interests: ["coding", "open source", "UI", "anime", "cute tools"],
-  mood: "sleepy but building something lovely",
-  theme: "Takanashi Hoshino inspired, but original artwork only"
-}
-```
-
-## 🧭 Profile Dashboard
-
-<div align="center">
-
-| ✨ Focus | 🐳 Now Building | 🎧 Current Vibe | 🌱 Learning |
-| --- | --- | --- | --- |
-| Clean UI | Cute developer tools | Blue Archive mood | AI / Cloud Native |
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,react,nextjs,vue,nodejs,nestjs,tailwind,sass,docker,postgres,redis,mongodb,git,github,linux,vscode,figma,aws,vercel,prisma&perline=8" alt="tech stack" />
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=hoshinoQAQ&show_icons=true&theme=transparent&hide_border=true&title_color=ff77b7&icon_color=8ccfff&text_color=59627a" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshinoQAQ&layout=compact&theme=transparent&hide_border=true&title_color=ff77b7&text_color=59627a" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=hoshinoQAQ&theme=transparent&hide_border=true&ring=FF77B7&fire=FFB3D8&currStreakLabel=6EA8FF&sideLabels=59627A&dates=8B94A8" alt="GitHub streak" />
-
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hoshinoQAQ&theme=flat&no-frame=true&no-bg=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub trophies" />
-
-</div>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/hoshinoQAQ/hoshinoQAQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoshinoQAQ&repo=hoshinoQAQ&theme=transparent&hide_border=true&title_color=ff77b7&icon_color=8ccfff&text_color=59627a" alt="Profile README repo" />
-</a>
-
-</div>
-
-> 后续你可以把这里替换成真正想展示的项目。我建议展示 4 个项目：一个主项目、一个工具项目、一个前端作品、一个学习笔记或实验项目。
-
-## 🧩 Project Card Template
-
-<div align="center">
+## 关于我
 
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="top">
 
-### 🌸 hoshino-ui
-
-清新粉蓝风格的 UI 组件库，适合个人主页、仪表盘和小工具。
-
-`React` · `TypeScript` · `Tailwind CSS`
-
-</td>
-<td width="50%">
-
-### 🐳 shale-notes
-
-轻量笔记与学习记录项目，整理技术、灵感和日常碎片。
-
-`Next.js` · `MDX` · `Vercel`
+- 喜欢把界面做得清爽一点，也喜欢把小细节打磨完整。  
+- 主要关注前端开发、组件设计、工具类项目和开源实践。  
+- 现在在继续补强工程化、性能优化，以及一些新的语言方向。  
+- 平时会把想到的东西做成小项目，再慢慢整理成能长期维护的作品。  
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✨ cute-tools
-
-一些实用又可爱的开发者小工具合集。
-
-`Python` · `CLI` · `Automation`
-
-</td>
-<td width="50%">
-
-### 🎧 hoshino-page
-
-可互动的个人主页雏形，包含粒子、点击音效和音乐按钮。
-
-`HTML` · `CSS` · `JavaScript`
-
+<td width="42%" align="center" valign="top">
+  <img src="assets/deco-blob.svg" width="220" alt="deco" />
 </td>
 </tr>
 </table>
 
-</div>
+## GitHub Stats
 
-## 🐍 Contribution Animation
+<table>
+<tr>
+<td width="58%" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoshinoQAQ&show_icons=true&theme=transparent&hide_border=true&title_color=ff7db9&icon_color=8ccfff&text_color=59627a&rank_icon=github" alt="stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=hoshinoQAQ&theme=transparent&hide_border=true&ring=FF86BF&fire=FFB6D9&currStreakLabel=6EA8FF&sideLabels=59627A&dates=8B94A8" alt="streak" />
+</td>
+<td width="42%" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshinoQAQ&layout=compact&theme=transparent&hide_border=true&title_color=ff7db9&text_color=59627a" alt="top langs" />
+  <br /><br />
+  <img src="assets/deco-cloud.svg" width="240" alt="cloud" />
+</td>
+</tr>
+</table>
+
+## 技术栈
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/hoshinoQAQ/hoshinoQAQ/output/github-contribution-grid-snake.svg" alt="snake contribution animation" />
-
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,react,nextjs,vue,nodejs,nestjs,tailwind,sass,docker,postgres,redis,mongodb,git,github,linux,vscode,figma,aws,vercel,prisma&perline=8" alt="skills" />
 </div>
 
-## 🪄 Design Notes
+## 现在在做什么
 
-这个主页的视觉重点不是把内容堆满，而是形成层次：第一屏用横幅、头像和打字动画建立印象；第二屏用状态卡、技能栈和统计数据说明能力；第三屏用精选项目和活动展示可信度；最后用贡献图、留言和互动页面入口增加记忆点。
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <img src="assets/card-study.svg" width="100%" alt="study" />
+  <br />
+  <b>继续整理前端和工具类方向的项目</b>
+  <br />
+  把零散的想法做成更完整、更稳定的作品。
+</td>
+<td width="50%" align="center" valign="top">
+  <img src="assets/card-music.svg" width="100%" alt="music" />
+  <br />
+  <b>写代码的时候喜欢放点轻松的音乐</b>
+  <br />
+  慢一点没关系，把每个部分做好就行。
+</td>
+</tr>
+</table>
+
+## 精选内容
+
+<table>
+<tr>
+<td width="33.3%" align="center" valign="top">
+  <img src="assets/card-study.svg" width="100%" alt="project 1" />
+  <br />
+  <b>hoshino-ui</b>
+  <br />
+  一套偏清爽风格的前端组件整理。
+</td>
+<td width="33.3%" align="center" valign="top">
+  <img src="assets/card-music.svg" width="100%" alt="project 2" />
+  <br />
+  <b>starry-blog</b>
+  <br />
+  个人博客与内容整理页面。
+</td>
+<td width="33.3%" align="center" valign="top">
+  <img src="assets/card-quote.svg" width="100%" alt="project 3" />
+  <br />
+  <b>hoshino-cloud</b>
+  <br />
+  一些轻量、好用的小工具与实验项目。
+</td>
+</tr>
+</table>
+
+## 活动
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/hoshinoQAQ/hoshinoQAQ/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
-<a href="./index.html">🌐 Open interactive page draft</a>
+## 今日留言
 
-<br /><br />
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-<img src="assets/soft-divider.svg" width="80%" alt="soft divider" />
+慢慢写，认真做。  
+把喜欢的东西，  
+变成可以分享的作品。
 
-**Made with 💗, ☁️, 🐳 and a little sleepy miracle.**
+<br />
+<br />
+— hoshinoQAQ
 
+</td>
+<td width="35%" align="center" valign="middle">
+  <img src="assets/card-quote.svg" width="100%" alt="quote" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="assets/footer-chibi.svg" width="130" alt="chibi" />
+  <br />
+  <sub>Made with ♥ by hoshinoQAQ</sub>
 </div>
