@@ -5,7 +5,7 @@
 <h1 align="center">hoshinoQAQ</h1>
 
 <p align="center">
-  <b>AI Agent Developer</b> · <b>Low-code Platform Developer</b>
+  <b>AI Agent</b> · <b>Low-code</b>
 </p>
 
 <p align="center">
@@ -29,19 +29,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="28%" valign="top">
-**Profile**
-
-- 🌏 Timezone: UTC+8
-- 🧭 Focus: AI Agent / Low-code Platform
-- ✨ Learning: ML / IoT / K8s / DevOps
-- 🐱 GitHub: [`@hoshinoQAQ`](https://github.com/hoshinoQAQ)
-
-</td>
-<td width="72%" valign="top">
-
 ## ✦ About Me
 
 - 代码苦手，最近在学习 ML、IoT、K8s 和 DevOps ing~。
@@ -49,13 +36,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoshinoQAQ&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshinoQAQ&layout=compact&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&bg_color=00000000" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hoshinoQAQ&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hoshinoQAQ&layout=compact&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&bg_color=00000000" alt="Top Languages" width="38%" />
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
