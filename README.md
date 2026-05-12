@@ -5,12 +5,12 @@
 <h1 align="center">hoshinoQAQ</h1>
 
 <p align="center">
-  <b>Frontend Developer</b> · <b>Open Source Lover</b> · <b>UI / UX Enthusiast</b>
+  <b>Full Stack Developer</b> · <b>AI Agent Developer</b> · <b>Low-code Builder</b>
 </p>
 
 <p align="center">
-  Passionate about crafting delightful web experiences with clean code and beautiful interfaces.<br/>
-  Love clean code, fresh UI, and sharing knowledge with the community.
+  Building full stack products, AI agent workflows, and low-code solutions.<br/>
+  Currently learning ML, IoT, K8s, and DevOps while shipping useful tools and clean experiences.
 </p>
 
 <p align="center">
@@ -45,8 +45,8 @@
 **Profile**
 
 - 🌏 Earth · UTC+8
-- 🧭 Frontend / UI / UX
-- ✨ Clean UI & open source
+- 🧭 Full Stack / AI Agent / Low-code
+- ✨ ML / IoT / K8s / DevOps learner
 - 🐱 GitHub: [`@hoshinoQAQ`](https://github.com/hoshinoQAQ)
 
 </td>
@@ -54,11 +54,11 @@
 
 ## ✦ About Me
 
-- 专注于现代 Web 开发，喜欢清爽、柔和、可长期维护的界面。
-- 喜欢开源，也喜欢把想法整理成可以分享的作品。
-- 关注前端工程化、组件设计、交互体验和工具类项目。
-- 正在持续学习 TypeScript、Vue、React、Node.js 与更多有趣方向。
-- 希望把代码写得更有温度，也把页面做得更干净。
+- 主要做全栈开发，也在持续做 AI Agent 和 low-code 相关的东西。
+- 喜欢把想法整理成能真正落地、能长期维护的产品和工具。
+- 关注 Web 工程化、交互体验、自动化工作流和实用型项目。
+- 现在正在学习 ML、IoT、K8s、DevOps，以及更多能和产品结合起来的新方向。
+- 希望把代码写得更稳，也把体验做得更自然。
 
 <br/>
 
