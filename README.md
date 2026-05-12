@@ -5,12 +5,12 @@
 <h1 align="center">hoshinoQAQ</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · <b>AI Agent Developer</b> · <b>Low-code Builder</b>
+  <b>全栈开发</b> · <b>AI Agent 开发</b> · <b>Low-code 折腾中</b>
 </p>
 
 <p align="center">
-  Building full stack products, AI agent workflows, and low-code solutions.<br/>
-  Currently learning ML, IoT, K8s, and DevOps while shipping useful tools and clean experiences.
+  喜欢把脑洞一点点做成真的，也喜欢把复杂的东西收拾得顺手一点。<br/>
+  现在一边做全栈、AI Agent、low-code，一边慢慢补 ML、IoT、K8s 和 DevOps。
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=6C7BEF&center=true&vCenter=true&width=720&height=42&lines=Build+soft+and+useful+web+experiences;Keep+learning%2C+keep+shipping;Make+interfaces+fresh%2C+clean%2C+and+kind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=6C7BEF&center=true&vCenter=true&width=720&height=42&lines=%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E6%88%90%E7%9C%9F%E7%9A%84%E4%B8%9C%E8%A5%BF;%E6%85%A2%E6%85%A2%E5%AD%A6%EF%BC%8C%E4%B9%9F%E6%85%A2%E6%85%A2%E5%81%9A;%E5%B7%A5%E5%85%B7%E3%80%81%E4%BA%A7%E5%93%81%E3%80%81%E8%87%AA%E5%8A%A8%E5%8C%96%E9%83%BD%E6%83%B3%E6%8A%98%E8%85%BE%E4%B8%80%E7%82%B9" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,23 +42,22 @@
 
 <br/>
 
-**Profile**
+**个人小卡片**
 
-- 🌏 Earth · UTC+8
-- 🧭 Full Stack / AI Agent / Low-code
-- ✨ ML / IoT / K8s / DevOps learner
+- 🌏 坐标：UTC+8
+- 🧭 方向：全栈 / AI Agent / Low-code
+- ✨ 学习中：ML / IoT / K8s / DevOps
 - 🐱 GitHub: [`@hoshinoQAQ`](https://github.com/hoshinoQAQ)
 
 </td>
 <td width="72%" valign="top">
 
-## ✦ About Me
+## ✦ 关于我
 
-- 主要做全栈开发，也在持续做 AI Agent 和 low-code 相关的东西。
-- 喜欢把想法整理成能真正落地、能长期维护的产品和工具。
-- 关注 Web 工程化、交互体验、自动化工作流和实用型项目。
-- 现在正在学习 ML、IoT、K8s、DevOps，以及更多能和产品结合起来的新方向。
-- 希望把代码写得更稳，也把体验做得更自然。
+- 主要做全栈开发，也一直在折腾 AI Agent 和 low-code 相关的东西。
+- 比起只停在想法阶段，我更喜欢把它们慢慢做成真的，能跑、能用、还能继续迭代。
+- 平时会比较关注 Web 工程化、交互体验、自动化工作流，还有那些看起来很实用的小工具。
+- 现在也在慢慢补 ML、IoT、K8s 和 DevOps，希望以后能把这些东西串起来玩得更顺手一点。
 
 <br/>
 
@@ -73,7 +72,7 @@
 
 ---
 
-## ✦ Contribution Activity
+## ✦ 最近活跃
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoshinoQAQ&bg_color=ffffff&color=59627a&line=8CB4FF&point=F7B7D9&area=true&area_color=CFE8FF&hide_border=true&custom_title=Recent%20Contribution%20Activity" alt="Activity Graph" width="100%" />
@@ -81,7 +80,7 @@
 
 ---
 
-## ✦ Tech Stack
+## ✦ 技术栈
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,vue,react,go,python,nodejs&theme=light&perline=7" alt="Skill Icons" />
@@ -89,7 +88,7 @@
 
 ---
 
-## ✦ Pinned Repository
+## ✦ 精选仓库
 
 <p align="center">
   <a href="https://github.com/hoshinoQAQ/hoshinoQAQ">
@@ -99,7 +98,7 @@
 
 ---
 
-## ✦ Gallery
+## ✦ 小画廊
 
 <table>
 <tr>
@@ -112,12 +111,6 @@
 </tr>
 </table>
 
----
-
 <p align="center">
-  <img src="./assets/images/quote-card.png" alt="quote card" width="86%" />
-</p>
-
-<p align="center">
-  <sub>© 2026 hoshinoQAQ · Built with soft light, clean code, and lots of coffee.</sub>
+  <sub>© 2026 hoshinoQAQ · 慢慢写代码，也慢慢把喜欢的东西做出来。</sub>
 </p>
