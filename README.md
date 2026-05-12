@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/banner-readme.png" alt="hoshinoQAQ banner" width="100%" />
+  <img src="./assets/images/banner-readme-v2.png" alt="hoshinoQAQ banner" width="100%" />
 </p>
 
 <h1 align="center">hoshinoQAQ</h1>
@@ -31,7 +31,7 @@
 
 ## ✦ About Me
 
-- 代码苦手，最近在学习 ML、IoT、K8s 和 DevOps ing~。
+- 代码苦手，学习 ML、IoT、K8s 和 DevOps ing~。
 
 <br/>
 
