@@ -61,8 +61,20 @@
 ## ✦ Pinned Repository
 
 <p align="center">
-  <a href="https://github.com/hoshinoQAQ/hoshinoQAQ">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hoshinoQAQ&repo=hoshinoQAQ&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="hoshinoQAQ repo" />
+  <a href="https://github.com/hoshinoQAQ/LearnPilot">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hoshinoQAQ&repo=LearnPilot&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="LearnPilot repo" width="49%" />
+  </a>
+  <a href="https://github.com/hoshinoQAQ/TwinForge">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hoshinoQAQ&repo=TwinForge&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="TwinForge repo" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hoshinoQAQ/AniMate">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hoshinoQAQ&repo=AniMate&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="AniMate repo" width="49%" />
+  </a>
+  <a href="https://github.com/hoshinoQAQ/Noa">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hoshinoQAQ&repo=Noa&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="Noa repo" width="49%" />
   </a>
 </p>
 
