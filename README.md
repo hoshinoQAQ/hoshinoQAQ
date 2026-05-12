@@ -5,12 +5,7 @@
 <h1 align="center">hoshinoQAQ</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · <b>AI Agent Developer</b> · <b>Low-code Builder</b>
-</p>
-
-<p align="center">
-  喜欢把脑洞一点点做成真的，也喜欢把复杂的东西收拾得顺手一点。<br/>
-  现在一边做全栈、AI Agent、low-code，一边慢慢补 ML、IoT、K8s 和 DevOps。
+  <b>AI Agent Developer</b> · <b>Low-code Platform Developer</b>
 </p>
 
 <p align="center">
@@ -37,16 +32,11 @@
 <table>
 <tr>
 <td width="28%" valign="top">
-
-<img src="./assets/images/profile-card.png" alt="profile card" width="100%" />
-
-<br/>
-
 **Profile**
 
-- 🌏 坐标：UTC+8
-- 🧭 方向：全栈 / AI Agent / Low-code
-- ✨ 学习中：ML / IoT / K8s / DevOps
+- 🌏 Timezone: UTC+8
+- 🧭 Focus: AI Agent / Low-code Platform
+- ✨ Learning: ML / IoT / K8s / DevOps
 - 🐱 GitHub: [`@hoshinoQAQ`](https://github.com/hoshinoQAQ)
 
 </td>
@@ -54,7 +44,7 @@
 
 ## ✦ About Me
 
-- 代码苦手，但还是很爱折腾；最近在学习 ML、IoT、K8s 和 DevOps ing~。
+- 代码苦手，最近在学习 ML、IoT、K8s 和 DevOps ing~。
 
 <br/>
 
