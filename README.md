@@ -84,7 +84,7 @@
 ## ✦ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,nodejs,python,tailwind,sass,git,github,docker,vscode,figma&theme=light&perline=8" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,go,python,nodejs&theme=light&perline=7" alt="Skill Icons" />
 </p>
 
 ---
@@ -95,14 +95,6 @@
   <a href="https://github.com/hoshinoQAQ/hoshinoQAQ">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoshinoQAQ&repo=hoshinoQAQ&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="hoshinoQAQ repo" />
   </a>
-</p>
-
----
-
-## ✦ Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoshinoQAQ&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -125,14 +117,6 @@
 <p align="center">
   <img src="./assets/images/quote-card.png" alt="quote card" width="86%" />
 </p>
-
----
-
-## ✦ Interaction Notes
-
-顶部横幅 `banner-readme.png` 是一张视觉图片，图片里的元素本身不能分别点击。真正可点击的是横幅下面的 GitHub、Email、Projects、Profile README 四个徽章按钮，它们都是 Markdown/HTML 链接，所以在 GitHub Profile README 里可以正常点击。
-
-GitHub Profile README 不支持自由运行 JavaScript，也不能像普通网页那样给图片内部的多个区域绑定点击事件。如果以后你想让“横幅里面的按钮也能点击”，更适合做 GitHub Pages 或独立网页；README 版本应该把按钮单独放成真实链接。
 
 <p align="center">
   <sub>© 2026 hoshinoQAQ · Built with soft light, clean code, and lots of coffee.</sub>
