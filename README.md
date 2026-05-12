@@ -31,7 +31,7 @@
 
 ## ✦ About Me
 
-- 代码苦手，学习 ML、IoT、K8s 和 DevOps ing~。
+- A little clumsy with code, learning ML, IoT, K8s, and DevOps ing~.
 
 <br/>
 
