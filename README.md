@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/hoshinoQAQ/hoshinoQAQ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoshinoQAQ&repo=hoshinoQAQ&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="hoshinoQAQ repo" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hoshinoQAQ&repo=hoshinoQAQ&theme=transparent&hide_border=true&title_color=6C7BEF&text_color=59627A&icon_color=8CB4FF&bg_color=00000000" alt="hoshinoQAQ repo" />
   </a>
 </p>
 
