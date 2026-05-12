@@ -31,7 +31,7 @@
 
 ## ✦ About Me
 
-- A little clumsy with code, learning ML, IoT, K8s, and DevOps ing~.
+- A little clumsy with code, learning ML, IoT, K8s, and DevOps.
 
 <br/>
 
