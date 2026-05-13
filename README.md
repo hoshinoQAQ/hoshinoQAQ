@@ -50,6 +50,7 @@
 
 ---
 
+<!--
 ## ✦ Tech Stack
 
 <p align="center">
@@ -57,6 +58,7 @@
 </p>
 
 ---
+-->
 
 ## ✦ Pinned Repository
 
